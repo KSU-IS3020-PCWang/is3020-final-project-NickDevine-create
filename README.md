@@ -2,11 +2,10 @@
 
 ## Student and Project Information
 
-- Student name:
-- GitHub username:
-- Project title:
-- Application purpose:
-
+- Student name: Nicholas_Devine 
+- GitHub username: NickDevine-create
+- Project title: Personal_Budget_and_Expense_Tracker
+- Application purpose: This application helps college students track income and expenses, organize spending into categories, and manage a budget. It is designed to make it eaisier for students with inconsistent income to understand their finances better 
 ## How to Run the Application
 
 Explain the required Python version, required files, and the exact steps for starting the application in PyCharm.
